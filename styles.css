@@ -201,7 +201,7 @@ h2 {
 @media only screen and (450px < width < 600px) {
   .card {
     font-size: 0.85rem;
-}
+  }
 
   .product-imgage {
     height: 400px;
@@ -212,11 +212,13 @@ h2 {
   .card {
     display: flex;
     max-width: 525px;
-}
+  }
+
   .inner-card {
     width: 300px;
     border-radius: 10px 0 0 10px;
   }
+  
   .product-imgage {
     height: 400px;
   }
