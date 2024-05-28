@@ -179,6 +179,8 @@ h2 {
   color: var(--header-text);
 }
 
+
+
 .add {
   background-color: var(--green);
   cursor: pointer;
@@ -190,4 +192,33 @@ h2 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: 700;
   margin-bottom: 10px;
+}
+
+@media  only screen and (min-width: 600px) {
+  #nav-bar {
+    flex-direction: row;
+  }
+}
+
+@media only screen and (450px < width <600px) {
+  .card {
+  font-size: 0.85rem;
+}
+.product-imgage {
+  height: 400px;
+}
+}
+
+@media only screen and (450px < width) {
+  .card {
+  display: flex;
+  max-width: 525px;
+}
+.inner-card {
+  width: 300px;
+  border-radius: 10px 0 0 10px;
+}
+.product-imgage {
+  height: 400px;
+}
 }
