@@ -167,14 +167,14 @@ h2 {
 }
 
 .author {
-  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   letter-spacing: 5px;
   color: var(--text);
   text-transform: uppercase;
 }
 
 .header {
-  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   margin: 10px 0;
   color: var(--header-text);
 }
@@ -187,7 +187,7 @@ h2 {
   border-radius: 10px;
   width: 100%;
   color: var(--white);
-  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: 700;
   margin-bottom: 10px;
 }
