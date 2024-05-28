@@ -15,6 +15,10 @@ body {
   background-color: var(--pale);
 }
 
+p {
+  margin-left: 5px;
+}
+
 #header-img {
   width: 60px;
   object-fit: contain;
@@ -42,6 +46,7 @@ body {
   color: var(--text);
   padding: 0 10px;
 }
+
 .logo-container {
   display: flex;
   align-items: center;
@@ -51,7 +56,7 @@ body {
   font-size: 25px;
   margin-left: 10px;
   font-weight: 700;
-  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #email-section {
@@ -85,7 +90,7 @@ section {
 }
 
 h2 {
-  font-family:fantasy;
+  font-family: fantasy;
   margin-bottom: 10px;
 }
 
@@ -138,7 +143,7 @@ h2 {
 }
 
 .content {
-  font-family: tahoma;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: var(--text);
   margin-bottom: 10px;
 }
@@ -162,14 +167,14 @@ h2 {
 }
 
 .author {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
   letter-spacing: 5px;
   color: var(--text);
   text-transform: uppercase;
 }
 
 .header {
-  font-family: tahoma;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
   margin: 10px 0;
   color: var(--header-text);
 }
@@ -182,7 +187,7 @@ h2 {
   border-radius: 10px;
   width: 100%;
   color: var(--white);
-  font-family: tahoma;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
   font-weight: 700;
   margin-bottom: 10px;
 }
