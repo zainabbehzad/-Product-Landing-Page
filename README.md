@@ -47,7 +47,7 @@ Share and contribute: If you find this project helpful, consider sharing it with
 
 ## Contributing 🤝
 
-How to Contribute
+. How to Contribute
 If you'd like to contribute to this project, follow these steps:
 
 1: Fork the repository: Fork the repository to your own GitHub account.
