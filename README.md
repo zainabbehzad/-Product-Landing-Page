@@ -57,7 +57,7 @@ If you'd like to contribute to this project, follow these steps:
 
 2: Clone the repository: Clone the repository to your local machine.
 
-git clone https://github.com/zainabbehzad/Product-Landing-Page.git
+    git clone https://github.com/zainabbehzad/Product-Landing-Page.git
 
 3: Create a new branch: Create a new branch with a descriptive name to work on your contribution.
 
