@@ -6,7 +6,6 @@
 This repository contains the code for a responsive product landing page built using HTML and CSS. The landing page is designed to showcase a specific product or service in a visually appealing and informative way, highlighting its key features and benefits.💻📝🚀
 
 ## Demo 📸
-![images](images/Screenshot%20(13).png)
 ![Screenshot (16)](https://github.com/zainabbehzad/Product-Landing-Page/assets/168668702/68c26314-52d8-452a-81bc-c98a01470512)
 
 
@@ -20,7 +19,8 @@ Installation 💻
 To install and set up this project, simply follow these steps:
 
 Clone the repository:
-git clone https://github.com/zainabbehzad/Product-Landing-Page.git
+
+    git clone https://github.com/zainabbehzad/Product-Landing-Page.git
 
 🎉 Once you've cloned the repository, you're all set to start exploring and using the project! If you encounter any issues or have questions, feel free to reach out for assistance. 🚀
 
@@ -30,7 +30,8 @@ To use this project, follow these steps:
 Installation: If you haven't already, follow the installation instructions mentioned in the Installation section to clone the repository.
 
 Navigate to project directory:
-. cd Technical-Documentation-page
+
+   cd Technical-Documentation-page
 
 Open the HTML file: Open the index.html file in your preferred web browser. You can do this by double-clicking the file or using a command-line tool like open (for macOS) or start (for Windows).
 
@@ -43,8 +44,9 @@ Share and contribute: If you find this project helpful, consider sharing it with
 
 ## Author 👩‍💻
 
-- LinkedIn: [Zainab Behzad]
-- Email: [zainabbehzad03@gmailcom)
+- LinkedIn: [Zainab Behzad](https://www.linkedin.com/in/zainab-behzad-3126692b5)
+- Email: [zainabbehzad03@gmail.com)
+- Github: [zainabbehzad](https://github.com/)
 
 ## Contributing 🤝
 
