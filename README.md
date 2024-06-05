@@ -7,6 +7,8 @@ This repository contains the code for a responsive product landing page built us
 
 ## Demo 📸
 ![images](images/Screenshot%20(13).png)
+![Screenshot (16)](https://github.com/zainabbehzad/Product-Landing-Page/assets/168668702/68c26314-52d8-452a-81bc-c98a01470512)
+
 
 ## Technologies Used 🛠️
 - HTML
